@@ -5,7 +5,7 @@ recentf
 savehist
 saveplace
 eshell
-elpa
+#elpa
 el-get
 semanticdb
 url
@@ -27,8 +27,13 @@ prelude-cheatsheet.el
 prelude-cheatsheet.aux
 prelude-cheatsheet.log
 transient/
-var/
+#var/
 .cache/
 .lsp-session*
 gotools/
 eln-cache/
+
+## customized by me
+elpa/vterm-**/build*
+elpa/vterm*
+smex-items
